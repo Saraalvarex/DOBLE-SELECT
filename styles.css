@@ -1,0 +1,15 @@
+*{box-sizing:border-box;}
+
+form{
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+    justify-content: center;
+	margin:auto;
+	background-color:rgb(144, 242, 255);
+}
+
+form label{
+	display:flex;
+}
